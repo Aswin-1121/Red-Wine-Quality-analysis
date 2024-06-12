@@ -11,7 +11,7 @@ datashape==0.5.2
 et-xmlfile==1.1.0
 fonttools==4.25.0
 imbalanced-learn==0.12.3
-imblearn==0.0k
+imblearn==0.0
 inflection==0.5.1
 jsonpointer==2.1
 mkl-service==2.4.0

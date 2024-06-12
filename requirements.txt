@@ -1,0 +1,12 @@
+requirements
+
+
+Python==3.11.5                                                                                                                                                        
+Flask==2.2.2
+Werkzeug==2.2.3
+Flask-Cors
+pickle
+numpy
+scikit-learn==0.21.3
+scipy
+imblearn

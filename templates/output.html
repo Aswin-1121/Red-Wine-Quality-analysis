@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wine Quality Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='res.css') }}">
+</head>
+<body background= "static\images\smell-of-wine-min.jpg">
+    <div class="container">
+        <h1>Wine Quality Prediction Result</h1>
+        <p>The quality of wine is <strong>{{ result }}</strong> .</p>
+        <p>{{ customer_decision }}</p>
+        <a href="/">Predict again</a>
+    </div>
+</body>
+</html>
